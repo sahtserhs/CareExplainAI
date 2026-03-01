@@ -1,0 +1,5 @@
+{
+  "name": "CareExplain AI",
+  "description": "Helps immigrant patients understand medical discharge instructions by simplifying and translating them.",
+  "requestFramePermissions": []
+}
